@@ -1,0 +1,10 @@
+.checkout{
+    display: flex;
+    background-color: white;
+    height: max-content;
+    padding: 20px;
+}
+
+hr{
+    width: 80%;
+}
